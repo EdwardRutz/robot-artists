@@ -14,6 +14,7 @@ Using AngularJS to  create a single page application.
 
 
 ## Notes and Sources
+- [See robohas.org for Robot Images](https://robohash.org)
 - [ng-model directive](https://docs.angularjs.org/api/ng/directive/ngModel)
 - [Lynda: Learning AngularJS](https://www.lynda.com/AngularJS-tutorials/Installing-running-basic-application/154414/167519-4.html)
 - [ng-repeat directive](https://docs.angularjs.org/api/ng/directive/ngRepeat)
