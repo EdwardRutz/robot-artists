@@ -1,4 +1,15 @@
-#README
+# Robot Artist Directory
+
+Using AngularJS to  create a single page application.
+
+## Set-up
+- AngularJS, Grunt, jQuery, SASS
+
+
+
+## Requirements
+- Use factory pattern to create a SPA.
+- Create a JSON file for the data.
 
 
 
