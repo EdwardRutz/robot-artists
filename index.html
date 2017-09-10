@@ -22,8 +22,12 @@
 								<!--ng-src prevents images from loading until after the angular library loads ups. This prevents a "not found" error.-->
 								<div class="cardInfo">
 									<h3>{{item.first_name}} {{item.last_name}}</h3>
-									<h4>Nickname:   {{item.nick_name}}</h4>
-									{{item.email}}
+									<h4>Nickname:   {{item.nick_name | uppercase}}</h4>
+									<ul class="details">
+										<li>Medium: {{item.medium}}</li>
+										<li>Zip Code: {{item.zip_code}}</li>
+										<li>{{item.email}}</li>
+									</ul>
 								</div>
 						</li> 	
 					</ul>
