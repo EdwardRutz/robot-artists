@@ -7,7 +7,7 @@
 			<link rel="stylesheet" type="text/css" href="css/main.css">
 	</head>
 	<header>
-		<h1>App and Angular Practice</h1>
+		<h1>AngularJS Single Page Application</h1>
 	</header>
 	<body ng-app="myApp">
 	
@@ -22,7 +22,8 @@
 								<!--ng-src prevents images from loading until after the angular library loads ups. This prevents a "not found" error.-->
 								<div class="cardInfo">
 									<h3>{{item.first_name}} {{item.last_name}}</h3>
-									<h4>"Nickname:  " {{item.nick_name}}</h4>
+									<h4>Nickname:   {{item.nick_name}}</h4>
+									{{item.email}}
 								</div>
 						</li> 	
 					</ul>
