@@ -22,6 +22,6 @@ Using AngularJS to  create a single page application.
 - [AngularJS $http service](https://docs.angularjs.org/api/ng/service/$http)
 - [ngRoute](https://docs.angularjs.org/api/ngRoute#!)
 - [Getting ngRoute Working](https://stackoverflow.com/questions/22811119/angularjs-getting-ngroute-working#22811716)
-[AngularJS Filters](https://docs.angularjs.org/api/ng/filter/filter)
-
+- [AngularJS Filters](https://docs.angularjs.org/api/ng/filter/filter)
+- [Angular orderBy filter](https://docs.angularjs.org/api/ng/filter/orderBy)
 
